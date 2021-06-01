@@ -1,0 +1,2 @@
+# DC to Edge Course
+ Whether you are an experienced data scientist or new to the field, this course takes a hands-on approach to help you understand the data science workflow, use Intel’s AI portfolio of processors and optimized software, and apply them to the challenge you are facing. The course uses an enterprise image classification problem and provides lectures for each stage in the process, accompanied by Jupyter* notebooks that walk you through the implementation.
